@@ -4,8 +4,8 @@
 
 ## 목차
 
-- [소개](##bow-소개)
-- [1주차](##1주차)
+- [소개](#bow-소개)
+- [1주차](#1주차)
 
    
 
@@ -39,6 +39,6 @@
 | 콜백 함수                                                    | JavaScript | 김지호 |
 | [event delegation](/ukssss/event-delegation.md)              | JavaScript | 홍성욱 |
 | [promise](/ukssss/promise.md)                                | JavaScript | 홍성욱 |
-| [실행컨텍스트](/yeseul/Execution\ Context.md)                | JavaScript | 강예슬 |
+| [실행컨텍스트](/yeseul/Execution%20Context.md)               | JavaScript | 강예슬 |
 | [this](/yeseul/This.md)                                      | JavaScript | 강예슬 |
 
