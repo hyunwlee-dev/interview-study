@@ -113,7 +113,7 @@ Number.isNaN("hi omlet"); //false
 
 - undeclared : 접근 가능한 스코프에 변수 선언조차 되지 않은 상태
 
-- NaN : NaN은 number 타입이지만 숫자가 아님을 의미
+- NaN : NaN은 number 타입이지만 표현 불가능한 수치형 결과
 
 ## 꼬리 질문 
 
