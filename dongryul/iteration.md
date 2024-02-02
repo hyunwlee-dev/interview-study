@@ -81,3 +81,20 @@ ES6가 되면서 위 객체들이 이터러블이 되었다.
 제너레이터 함수는 `function*` 키워드로 생성할 수 있으며, `yield`키워드를 사용하여 값을 반환합니다. 
 
 제너레이터 함수를 호출하면 이터레이터 객체가 반환되며, 이터레이터의 `next`메소드를 호출하여 제너레이터 함수를 실행할 수 있습니다.
+
+
+---
+
+지호님 질문
+- 유사배열객체이지만 이터러블이 아닌 객체의 예로 무엇이 있나요?
+
+```js
+const fileInput = document.getElementById('fileInput');
+const fileList = fileInput.files; // FileList 객체 반환
+
+// FileList는 유사 배열 객체이지만 직접적인 이터레이션이 불가능함
+// TypeError: fileList is not iterable
+for (const file of fileList) {
+    console.log(file.name);
+}
+```
