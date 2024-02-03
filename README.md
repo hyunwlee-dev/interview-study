@@ -4,8 +4,11 @@
 
 ## 목차
 
-- [소개](##bow-소개)
-- [1주차](##1주차)
+- [소개](#bow-소개)
+
+- [1주차](#1주차)
+
+- [2주차](#2주차)
 
    
 
@@ -25,20 +28,30 @@
 
   
 
-## 1주차
+## 1주차 (2023.01.25)
 
 | 질문                                                         | 분야       | 작성자 |
 | ------------------------------------------------------------ | ---------- | ------ |
 | [이터러블과 이터레이터 프로토콜에 대해 설명해주세요.](/dongryul/iteration.md) | JavaScript | 김동률 |
 | [Rest 연산자와 Spread 연산자에 대해 설명해주세요.](/dongryul/rest,spread,destructuring.md) | JavaScript | 김동률 |
 | [쿠키란?, 왜 쿠키가 필요한지, 쿠키 삭제](/hyunwlee/cookie.md) | Web        | 이현우 |
-| 쿠키 vs 로컬스토리지 vs 세션스토리지                         | Web        | 이현우 |
-| 클로저란?                                                    | JavaScript | 오승택 |
-| Event Loop                                                   | JavaScript | 오승택 |
-| 호이스팅                                                     | JavaScript | 김지호 |
-| 콜백 함수                                                    | JavaScript | 김지호 |
-| [event delegation](/ukssss/event-delegation.md)              | JavaScript | 홍성욱 |
-| [promise](/ukssss/promise.md)                                | JavaScript | 홍성욱 |
-| [실행컨텍스트](/yeseul/Execution\ Context.md)                | JavaScript | 강예슬 |
+| [쿠키 vs 로컬스토리지 vs 세션스토리지](/hyunwlee/cookie%20vs.%20localStorage%20vs.%20sessionStorage.md) | Web        | 이현우 |
+| [클로저란?](/seungtaek/closure.md)                           | JavaScript | 오승택 |
+| [Event Loop](/seungtaek/event-loop.md)                       | JavaScript | 오승택 |
+| [호이스팅](/kjeeu/Hoisting.md)                               | JavaScript | 김지호 |
+| [콜백 함수](/kjeeu/Callback.md)                              | JavaScript | 김지호 |
+| [event delegation](/ukss/event-delegation.md)                | JavaScript | 홍성욱 |
+| [promise](/ukss/promise.md)                                  | JavaScript | 홍성욱 |
+| [실행 컨텍스트](/yeseul/Execution%20Context.md)              | JavaScript | 강예슬 |
 | [this](/yeseul/This.md)                                      | JavaScript | 강예슬 |
+
+## 2주차 (2023.02.01)
+
+| 질문                                                         | 분야              | 작성자 |
+| ------------------------------------------------------------ | ----------------- | ------ |
+| [JWT 인증방식이란?](/dongryul/jwt.md)                        | Web               | 김동률 |
+| [즉시 실행 함수 (IIFE)에 대해 설명해주세요.](/hyunwlee/IIFE.md) | JavaScript        | 이현우 |
+| 마이크로태스크 큐 란 무엇인가요 ?                            | JavaScript        | 오승택 |
+| [memoization이 무엇인가요?](/ukss/memoization.md)            | JavaScript, React | 홍성욱 |
+| [null, undefined, undeclared, NaN 에 대해 설명해주세요.](/yeseul/null%2C%20undefined%2C%20undeclared%2C%20NaN.md) | JavaScript        | 강예슬 |
 
