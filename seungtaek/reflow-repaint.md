@@ -50,3 +50,8 @@
 - CSS 속성 사용 최적화 하기
 - 이미지 및 그래픽 최적화 하기
 - 성능 분석 도구를 사용하여 최적화 할 수 있는 부분 식별하기
+
+### ref
+
+[리플로우, 리페인트와 브라우저 렌더링 알아보기](https://mong-blog.tistory.com/entry/%EB%A6%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EB%A6%AC%ED%8E%98%EC%9D%B8%ED%8A%B8%EC%99%80-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+[Reflow, Repaint 와 7가지 렌더링 최적화방법](https://ekimnida.tistory.com/45)
