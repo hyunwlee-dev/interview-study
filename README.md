@@ -12,6 +12,8 @@
 
 - [3주차](#3주차-(2024.02.15))
 
+- [4주차](#4주차-(2024.02.22))
+
    
 
 ## :bow: 소개
@@ -70,3 +72,16 @@
 | [SPA vs. CSR vs. SSR](/seungtaek/spa-scr-ssr.md)             | Web        | 오승택 |
 | [브라우저 렌더링 과정에 대해 설명해주세요.](/kjeeu/browserRendering.md) | Web        | 김지호 |
 | [불변성(immutability)을 유지하는 방법](/yeseul/imutability.md) | JavaScript | 강예슬 |
+
+​    
+
+## 4주차 (2024.02.22)
+
+| 질문                                                         | 분야       | 작성자 |
+| ------------------------------------------------------------ | ---------- | ------ |
+| [Virtual DOM 작동 원리에 대해 설명해주세요.](/dongryul/virtualDOM.md) | React      | 김동률 |
+| [Flux architecture이란?](/hyunwlee/flux-architecture.md)     | React      | 이현우 |
+| [Reflow와 Repaint가 실행되는 시점](/seungtaek/reflow-repaint.md) | Web        | 오승택 |
+| [HTTP란?](/kjeeu/김지호%3A%204주차%20정리내용%20업로드.md)   | Web        | 김지호 |
+| [이벤트 바인딩이란?](/yeseul/event%20binding.md)             | JavaScript | 강예슬 |
+
