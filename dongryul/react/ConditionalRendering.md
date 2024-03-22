@@ -1,8 +1,10 @@
+# Conditional rendering
+
 Your components will often need to display different things depending on different conditions. In React, you can conditionally render JSX using JavaScript syntax like `if` statements, `&&`, and `? :` operators.
 
 당신의 컴포넌트는 종종 다른 조건에 따라 다른 것들을 보여줄 필요가 있을 것이다. 리액트에서는 당신은 조건에 따라 자바스크립트 문법의 if문, &&, ? : 연산자와 같은 것들을 사용하면서 JSX를 렌더링 할 수 있다.
 
-# **You will learn**
+## **You will learn**
 
 - How to return different JSX depending on a condition
 - How to conditionally include or exclude a piece of JSX
@@ -14,7 +16,7 @@ Your components will often need to display different things depending on differe
 - 조건에 따라 JSX 조각을 포함하고 배제하는 방법
 - 당신이 리액트 코드베이스에서 마주하게될 일반 조건부 문법에 대한 단축키
 
-# **Conditionally returning JSX**
+## **Conditionally returning JSX**
 
 Let’s say you have a `PackingList` component rendering several `Item`s, which can be marked as packed or not:
 
